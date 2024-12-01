@@ -5,7 +5,7 @@ evaluacion
 m7_s10
 
 Para clonar:
-
+https://github.com/ThDelgado/app_supermercado_-enrutamiento.git
 
 
 Thelma Delgado
